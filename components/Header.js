@@ -5,21 +5,21 @@ import { useRouter } from "next/router";
 const menu = [
   {
     path: "/",
-    image: "/corvette.png",
-    width: "345px",
-    height: "56px",
+    image: "/corvette-2.png",
+    width: "418px",
+    height: "100px",
   },
   {
     path: "/porsche",
-    image: "/porsche.png",
-    width: "300px",
-    height: "20px",
+    image: "/porsche-2.png",
+    width: "418px",
+    height: "100px",
   },
   {
     path: "/toyota",
-    image: "/toyota.png",
-    width: "374px",
-    height: "74px",
+    image: "/toyota-2.png",
+    width: "418px",
+    height: "100px",
   },
 ];
 
