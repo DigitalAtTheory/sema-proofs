@@ -69,7 +69,7 @@ export default function Toyota() {
                 placeholder="blur"
                 src="/Toyota/Confirmation Page/SEMA-2021-Reflex-Toyota-Confirmation-Physical.jpg"
                 width="1170"
-                height="5910"
+                height="4995"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
                   shimmer(700, 475)
                 )}`}
@@ -99,7 +99,7 @@ export default function Toyota() {
                 placeholder="blur"
                 src="/Toyota/Confirmation Page/SEMA-2021-Reflex-Toyota-Confirmation-Digital.jpg"
                 width="1170"
-                height="5910"
+                height="4995"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
                   shimmer(700, 475)
                 )}`}

@@ -69,7 +69,7 @@ export default function Porsche() {
                 placeholder="blur"
                 src="/Porsche/Confirmation Page/SEMA-2021-Reflex-Porsche-Confirmation-Physical.jpg"
                 width="1170"
-                height="5910"
+                height="4995"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
                   shimmer(700, 475)
                 )}`}
@@ -99,7 +99,7 @@ export default function Porsche() {
                 placeholder="blur"
                 src="/Porsche/Confirmation Page/SEMA-2021-Reflex-Porsche-Confirmation-Digital.jpg"
                 width="1170"
-                height="5910"
+                height="4995"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
                   shimmer(700, 475)
                 )}`}
