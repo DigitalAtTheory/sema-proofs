@@ -53,7 +53,7 @@ export default function Porsche() {
               <h2 className="text-2xl text-center mb-4">Landing Page</h2>
               <Image
                 placeholder="blur"
-                src="/Porsche/Landing Page/SEMA-2021-Reflex-Porsche-Physcial.jpg"
+                src="/Porsche/Landing Page/SEMA-2022-REFLEX-HOON-P.jpg"
                 width="1170"
                 height="5910"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
@@ -67,7 +67,7 @@ export default function Porsche() {
               </h2>
               <Image
                 placeholder="blur"
-                src="/Porsche/Confirmation Page/SEMA-2021-Reflex-Porsche-Confirmation-Physical.jpg"
+                src="/Porsche/Confirmation Page/SEMA-2022-Trg-Email-HOON-P.jpg"
                 width="1170"
                 height="4995"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
@@ -83,7 +83,7 @@ export default function Porsche() {
               <h2 className="text-2xl text-center mb-4">Landing Page</h2>
               <Image
                 placeholder="blur"
-                src="/Porsche/Landing Page/SEMA-2021-Reflex-Porsche-Digital.jpg"
+                src="/Porsche/Landing Page/SEMA-2022-REFLEX-HOON-V.jpg"
                 width="1170"
                 height="5910"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
@@ -97,7 +97,7 @@ export default function Porsche() {
               </h2>
               <Image
                 placeholder="blur"
-                src="/Porsche/Confirmation Page/SEMA-2021-Reflex-Porsche-Confirmation-Digital.jpg"
+                src="/Porsche/Confirmation Page/SEMA-2022-Trg-Email-HOON-V.jpg"
                 width="1170"
                 height="4995"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(

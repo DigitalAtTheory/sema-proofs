@@ -53,7 +53,7 @@ export default function Corvette() {
               <h2 className="text-2xl text-center mb-4">Landing Page</h2>
               <Image
                 placeholder="blur"
-                src="/Corvette/Landing Page/SEMA-2021-Reflex-Corvette-Physcial.jpg"
+                src="/Corvette/Landing Page/SEMA-2022-REFLEX-ROSIE-P.jpg"
                 width="1170"
                 height="5910"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
@@ -67,7 +67,7 @@ export default function Corvette() {
               </h2>
               <Image
                 placeholder="blur"
-                src="/Corvette/Confirmation Page/SEMA-2021-Reflex-Corvette-Confirmation-Physical.jpg"
+                src="/Corvette/Confirmation Page/SEMA-2022-Trg-Email-ROSIE-P.jpg"
                 width="1170"
                 height="4995"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
@@ -83,7 +83,7 @@ export default function Corvette() {
               <h2 className="text-2xl text-center mb-4">Landing Page</h2>
               <Image
                 placeholder="blur"
-                src="/Corvette/Landing Page/SEMA-2021-Reflex-Corvette-Digital.jpg"
+                src="/Corvette/Landing Page/SEMA-2022-REFLEX-ROSIE-V.jpg"
                 width="1170"
                 height="5910"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
@@ -97,7 +97,7 @@ export default function Corvette() {
               </h2>
               <Image
                 placeholder="blur"
-                src="/Corvette/Confirmation Page/SEMA-2021-Reflex-Corvette-Confirmation-Digital.jpg"
+                src="/Corvette/Confirmation Page/SEMA-2022-Trg-Email-ROSIE-V.jpg"
                 width="1170"
                 height="4995"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(

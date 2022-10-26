@@ -5,7 +5,7 @@ import { useRouter } from "next/router";
 const menu = [
   {
     path: "/",
-    image: "/corvette-2.png",
+    image: "/ChevyPerf-horizontal.png",
     width: "418px",
     height: "100px",
   },

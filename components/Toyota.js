@@ -53,7 +53,7 @@ export default function Toyota() {
               <h2 className="text-2xl text-center mb-4">Landing Page</h2>
               <Image
                 placeholder="blur"
-                src="/Toyota/Landing Page/SEMA-2021-Reflex-Toyota-Physcial.jpg"
+                src="/Toyota/Landing Page/SEMA-2022-REFLEX-STOUT-P.jpg"
                 width="1170"
                 height="5910"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
@@ -67,7 +67,7 @@ export default function Toyota() {
               </h2>
               <Image
                 placeholder="blur"
-                src="/Toyota/Confirmation Page/SEMA-2021-Reflex-Toyota-Confirmation-Physical.jpg"
+                src="/Toyota/Confirmation Page/SEMA-2022-Trg-Email-STOUT-P.jpg"
                 width="1170"
                 height="4995"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
@@ -83,7 +83,7 @@ export default function Toyota() {
               <h2 className="text-2xl text-center mb-4">Landing Page</h2>
               <Image
                 placeholder="blur"
-                src="/Toyota/Landing Page/SEMA-2021-Reflex-Toyota-Digital.jpg"
+                src="/Toyota/Landing Page/SEMA-2022-REFLEX-STOUT-V.jpg"
                 width="1170"
                 height="5910"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
@@ -97,7 +97,7 @@ export default function Toyota() {
               </h2>
               <Image
                 placeholder="blur"
-                src="/Toyota/Confirmation Page/SEMA-2021-Reflex-Toyota-Confirmation-Digital.jpg"
+                src="/Toyota/Confirmation Page/SEMA-2022-Trg-Email-STOUT-V.jpg"
                 width="1170"
                 height="4995"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
