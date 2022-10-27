@@ -55,7 +55,7 @@ export default function Corvette() {
                 placeholder="blur"
                 src="/Corvette/Landing Page/SEMA-2022-REFLEX-ROSIE-P.jpg"
                 width="1170"
-                height="5910"
+                height="4587"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
                   shimmer(700, 475)
                 )}`}
@@ -69,7 +69,7 @@ export default function Corvette() {
                 placeholder="blur"
                 src="/Corvette/Confirmation Page/SEMA-2022-Trg-Email-ROSIE-P.jpg"
                 width="1170"
-                height="4995"
+                height="3281"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
                   shimmer(700, 475)
                 )}`}
@@ -85,7 +85,7 @@ export default function Corvette() {
                 placeholder="blur"
                 src="/Corvette/Landing Page/SEMA-2022-REFLEX-ROSIE-V.jpg"
                 width="1170"
-                height="5910"
+                height="4587"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
                   shimmer(700, 475)
                 )}`}
@@ -99,7 +99,7 @@ export default function Corvette() {
                 placeholder="blur"
                 src="/Corvette/Confirmation Page/SEMA-2022-Trg-Email-ROSIE-V.jpg"
                 width="1170"
-                height="4995"
+                height="3281"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
                   shimmer(700, 475)
                 )}`}

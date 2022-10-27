@@ -55,7 +55,7 @@ export default function Porsche() {
                 placeholder="blur"
                 src="/Porsche/Landing Page/SEMA-2022-REFLEX-HOON-P.jpg"
                 width="1170"
-                height="5910"
+                height="4587"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
                   shimmer(700, 475)
                 )}`}
@@ -69,7 +69,7 @@ export default function Porsche() {
                 placeholder="blur"
                 src="/Porsche/Confirmation Page/SEMA-2022-Trg-Email-HOON-P.jpg"
                 width="1170"
-                height="4995"
+                height="3281"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
                   shimmer(700, 475)
                 )}`}
@@ -85,7 +85,7 @@ export default function Porsche() {
                 placeholder="blur"
                 src="/Porsche/Landing Page/SEMA-2022-REFLEX-HOON-V.jpg"
                 width="1170"
-                height="5910"
+                height="4587"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
                   shimmer(700, 475)
                 )}`}
@@ -99,7 +99,7 @@ export default function Porsche() {
                 placeholder="blur"
                 src="/Porsche/Confirmation Page/SEMA-2022-Trg-Email-HOON-V.jpg"
                 width="1170"
-                height="4995"
+                height="3281"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
                   shimmer(700, 475)
                 )}`}

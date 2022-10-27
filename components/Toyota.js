@@ -55,7 +55,7 @@ export default function Toyota() {
                 placeholder="blur"
                 src="/Toyota/Landing Page/SEMA-2022-REFLEX-STOUT-P.jpg"
                 width="1170"
-                height="5910"
+                height="4587"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
                   shimmer(700, 475)
                 )}`}
@@ -69,7 +69,7 @@ export default function Toyota() {
                 placeholder="blur"
                 src="/Toyota/Confirmation Page/SEMA-2022-Trg-Email-STOUT-P.jpg"
                 width="1170"
-                height="4995"
+                height="3281"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
                   shimmer(700, 475)
                 )}`}
@@ -85,7 +85,7 @@ export default function Toyota() {
                 placeholder="blur"
                 src="/Toyota/Landing Page/SEMA-2022-REFLEX-STOUT-V.jpg"
                 width="1170"
-                height="5910"
+                height="4587"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
                   shimmer(700, 475)
                 )}`}
@@ -99,7 +99,7 @@ export default function Toyota() {
                 placeholder="blur"
                 src="/Toyota/Confirmation Page/SEMA-2022-Trg-Email-STOUT-V.jpg"
                 width="1170"
-                height="4995"
+                height="3281"
                 blurDataURL={`data:image/svg+xml;base64,${toBase64(
                   shimmer(700, 475)
                 )}`}
